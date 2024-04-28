@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\C# Projects\Calculator_toPass\bin\Debug\Calculator_toPass.exe.config
+C:\Users\user\Desktop\C# Projects\Calculator_toPass\bin\Debug\Calculator_toPass.exe
+C:\Users\user\Desktop\C# Projects\Calculator_toPass\bin\Debug\Calculator_toPass.pdb
+C:\Users\user\Desktop\C# Projects\Calculator_toPass\obj\Debug\Calculator_toPass.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Projects\Calculator_toPass\obj\Debug\Calculator_toPass.Calculator.resources
+C:\Users\user\Desktop\C# Projects\Calculator_toPass\obj\Debug\Calculator_toPass.Properties.Resources.resources
+C:\Users\user\Desktop\C# Projects\Calculator_toPass\obj\Debug\Calculator_toPass.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C# Projects\Calculator_toPass\obj\Debug\Calculator_toPass.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Projects\Calculator_toPass\obj\Debug\Calculator_toPass.exe
+C:\Users\user\Desktop\C# Projects\Calculator_toPass\obj\Debug\Calculator_toPass.pdb
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\Calculator_toPass\bin\Debug\Calculator_toPass.exe.config
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\Calculator_toPass\bin\Debug\Calculator_toPass.exe
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\Calculator_toPass\bin\Debug\Calculator_toPass.pdb
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\Calculator_toPass\obj\Debug\Calculator_toPass.csproj.AssemblyReference.cache
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\Calculator_toPass\obj\Debug\Calculator_toPass.Calculator.resources
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\Calculator_toPass\obj\Debug\Calculator_toPass.Properties.Resources.resources
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\Calculator_toPass\obj\Debug\Calculator_toPass.csproj.GenerateResource.cache
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\Calculator_toPass\obj\Debug\Calculator_toPass.csproj.CoreCompileInputs.cache
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\Calculator_toPass\obj\Debug\Calculator_toPass.exe
+C:\Users\SECCA\Downloads\C# Projects\C# Projects\Calculator_toPass\obj\Debug\Calculator_toPass.pdb
